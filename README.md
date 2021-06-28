@@ -59,3 +59,8 @@ ctrl + o
 source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
+
+
+
+VirtualBox_ubuntu18_28_06_2021_16_54_12.png![VirtualBox_ubuntu18_28_06_2021_16_54_12](https://user-images.githubusercontent.com/86385515/123648585-ba911700-d831-11eb-8100-ef5c5002382d.png)
+
