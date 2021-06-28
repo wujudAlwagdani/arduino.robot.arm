@@ -1,4 +1,5 @@
 ROS package to control Arduino robot arm
+-----------------------------------------
 
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
@@ -54,4 +55,5 @@ source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
 
-VirtualBox_ubuntu18_28_06_2021_16_54_12.pngVirtualBox_ubuntu18_28_06_2021_16_54_12
+
+VirtualBox_ubuntu18_28_06_2021_16_54_12.png
